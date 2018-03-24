@@ -1,0 +1,3 @@
+Intel Firmware under blue cover - 1 Mbit PROM - ST Micro M27C1001 - Markings: I9612 \n 3498
+
+Texas Instruments Firmware under green cover - ST Micro M27C512 - Markings : T9612 \n 34.69
